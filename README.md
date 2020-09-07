@@ -1,2 +1,1 @@
-# MACHINE-LEARING-MAJOR-PROJECT-VERZEO
-Machine learning project 
+ 
